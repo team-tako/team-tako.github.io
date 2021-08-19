@@ -1,18 +1,23 @@
 ---
+
 layout: page
 title: About
 permalink: /about/
 main_nav: true
+
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+우리는 [Monologg][monologg], [Inkoon][inkoon], [Boychaboy][boychaboy] 입니다. 
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+우리는 한국어 토크나이징 방법에 대해서 연구하기 위해 모인 개인 연구자들입니다.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+우리는 프로젝트를 진행하면서 고민했던 것들을 기록하기 위해 이 공간을 만들었습니다. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+우리는 🌮 🍺 을 좋아합니다. 
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+우리의 작은 노력이 당신들의 ⏰ 을 아껴서 당신들이 더 많이 🌮 🍺 할 수 있으면 좋겠습니다.
+
+[monologg]: https://github.com/monologgi
+[inkoon]: nkoon : https://github.com/inkoon
+[boychaboy]: https://github.com/boychaboy
+
