@@ -28,7 +28,7 @@ categories: Papers
 
 - "GBST  learns  a  position-wise soft selection over candidate subword blocks by scoring them with a scoring network. In contrast to prior tokenization-free methods, GBST learns interpretable latent subwords, which enables easy inspection of lexical representations and is more efficient than other byte-based models "
 
-  <img src="_posts/img/image-20210819142515732.png" alt="image-20210819142515732" style="zoom:75%;" />
+  ![image-20210819144813229](/_posts/img/image-20210819142515732.png)
 
 - 성능<sup>performance</sup>
 
@@ -112,8 +112,6 @@ $$
 - GLUE, document classification(sentiment, news)
 
 ![image-20210819213513275](/_posts/img/image-20210819213513275.png)
-
-![image-20210819213855933](/Users/boychaboy/Library/Application Support/typora-user-images/image-20210819213855933.png)
 
 ### Non-standard English Dataset
 
