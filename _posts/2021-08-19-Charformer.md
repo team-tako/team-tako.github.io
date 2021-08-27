@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Post"
+title:  "Charformer: Fast Character Transformers via Gradient-based Subword Tokenization"
 date:   2021-08-21T14:25:52-05:00
 author: 보이차보이
 categories: Papers
@@ -111,19 +111,19 @@ $$
 
 - GLUE, document classification(sentiment, news)
 
-![image-20210819213513275](/_posts/img/image-20210819213513275.png)
+![image-1](/_posts/img/Charformer-1.png)
 
 ### Non-standard English Dataset
 
 - [hatespeech] Civil comments, Wikipedia comments
 
-![image-20210819213749694](/_posts/img/image-20210819213749694.png)
+![image-2](/_posts/img/Charformer-2.png)
 
 ### Multilingual
 
 - Cross-lingual 
 
-![image-20210819213946250](/_posts/img/image-20210819213946250.png)
+![image-3](/_posts/img/Charformer-3.png)
 
 ## Conclusion
 
