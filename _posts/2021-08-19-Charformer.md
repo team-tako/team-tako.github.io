@@ -7,7 +7,7 @@ categories: Papers
 
 ---
 
-# Charformer: Fast Character Transformers viaGradient-based Subword Tokenization
+# Charformer: Fast Character Transformers via Gradient-based Subword Tokenization
 
 ## Introduction
 
@@ -28,7 +28,7 @@ categories: Papers
 
 - "GBST  learns  a  position-wise soft selection over candidate subword blocks by scoring them with a scoring network. In contrast to prior tokenization-free methods, GBST learns interpretable latent subwords, which enables easy inspection of lexical representations and is more efficient than other byte-based models "
 
-  ![image-1](/_posts/img/Charformer-1.png)
+  ![image-1](/assets/post_img/Charformer-1.png)
 
 - 성능<sup>performance</sup>
 
@@ -58,7 +58,7 @@ $$
 - 모델이 $char$마다 가장 적합한 **서브워드 블록**을 선택함으로서 잠재된 서브워드 분할<sup>segmantation</sup> 방법을 학습할 수 있도록하는 것이 핵심 아이디어이다. 
 - 서브워드 블록은 전체에서 $b$ 길이를 갖는 $char$ span을 의미한다. 
 
-![image-2](/_posts/img/charformer-2.png)
+![image-2](/assets/post_img/charformer-2.png)
 
 - Strided-pooling function $F : \mathbb{R}^{b\times d}\in\mathbb{R}^d$
   $$
@@ -111,19 +111,19 @@ $$
 
 - GLUE, document classification(sentiment, news)
 
-![image-1](/_posts/img/charformer-3.png)
+![image-1](/assets/post_img/charformer-3.png)
 
 ### Non-standard English Dataset
 
 - [hatespeech] Civil comments, Wikipedia comments
 
-![image-2](/_posts/img/charformer-4.png)
+![image-2](/assets/post_img/charformer-4.png)
 
 ### Multilingual
 
 - Cross-lingual 
 
-![image-3](/_posts/img/charformer-5.png)
+![image-3](/assets/post_img/charformer-5.png)
 
 ## Conclusion
 
